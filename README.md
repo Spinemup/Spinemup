@@ -1,1 +1,1 @@
-# Spinemup
+# Spin 'em up
